@@ -12,11 +12,15 @@ main:
 
   - title: "Diagnosing Distributed Routing Configurations Using Sequential Program Analysis"
     authors: Rulan Yang, <strong>Xing Fang</strong>, Lizhao You, Qiao Xiang, Hanyang Shao, Gao Han, Ziyi Wang, Jiwu Shu, Linghe Kong
-#    conference_short: CVPR
     conference: APNET, 2023.
     pdf: https://conferences.sigcomm.org/events/apnet2023/papers/sec2-diagnose.pdf
-#    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-#    notes: Oral Presentation
-#    image: ./assets/img/teaser_example.png
+
+  - title: "Toward Privacy-Preserving Interdomain Configuration Verification via Multi-Party Computation"
+    authors: Huisan Xu, Qiuyue Qin, <strong>Xing Fang</strong>, Qiao Xiang, Jiwu Shu
+    conference: APNET, 2023.
+    pdf: https://conferences.sigcomm.org/events/apnet2023/papers/sec2-toward.pdf
+
+  - title: "Survey on Network Verification"
+    authors: <strong>Xing Fang</strong>, Bo Hu, Chao Ma, Weiqing Huang
+    conference: Journal of Software, 2023.
+    pdf: https://www.jos.org.cn/jos/article/pdf/6510
