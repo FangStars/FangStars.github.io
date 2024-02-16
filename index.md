@@ -6,7 +6,7 @@ layout: homepage
 
 I am a 2nd-year PhD student at Xiamen University's [SNGroup](https://sngroup.org.cn/), 
 under the guidance of Professor [Qiao Xiang](https://qiaoxiang.me/). 
-I earned my master degree in computer technology from Institute of Information Engineering, 
+I earned my master degree in computer technology from the Institute of Information Engineering, 
 Chinese Academy of Sciences in 2022, under the guidance of [Bo Hu](https://teacher.ucas.ac.cn/~0057576).
 Prior to this, I received my BEng degree from Huazhong University of Science and Technology in 2019.
 
