@@ -4,19 +4,24 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a 2nd-year PhD student at Xiamen University's [SNGroup](https://sngroup.org.cn/), 
+under the guidance of Professor [Qiao Xiang](https://qiaoxiang.me/). 
+I earned my master degree in computer technology from Institute of Information Engineering, 
+Chinese Academy of Sciences in 2022, under the guidance of [Bo Hu](https://teacher.ucas.ac.cn/~0057576).
+Prior to this, I received my BEng degree from Huazhong University of Science and Technology in 2019.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My main research interest focuses on the computer network and formal methods, aiming to ensure 
+that the computer network operates as intended.
+
+Recently, I have been trying to develop an innovative technique to accelerate control plane verification. 
+Besides, I am also highly interested in exploring new techniques of network error
+diagnosis and repair and privacy-preserving network verification.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Dec. 2023]** Our paper about incremental control plane verification is accepted to INFOCOM 2024.
 
 {% include_relative _includes/publications.md %}
 
