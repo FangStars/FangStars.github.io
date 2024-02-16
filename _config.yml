@@ -1,5 +1,7 @@
 # Basic Information 
-title: "Xing Fang \n (星 方)"
+title: |
+  Xing Fang 
+  (星 方)
 position: Ph.D. Student
 affiliation: Xiamen University
 email: xing.fang.xmu@outlook.com
@@ -30,7 +32,7 @@ enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: false
+auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
