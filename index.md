@@ -21,7 +21,7 @@ diagnosis and repair and privacy-preserving network verification.
 
 ## News
 
-- **[Dec. 2023]** Our paper about incremental control plane verification is accepted to INFOCOM 2024.
+- **[Dec. 2023]** Our paper about control plane verification is accepted to INFOCOM 2024.
 
 {% include_relative _includes/publications.md %}
 
