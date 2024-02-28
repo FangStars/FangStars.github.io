@@ -20,7 +20,7 @@ main:
     conference: APNET, 2023.
     pdf: https://conferences.sigcomm.org/events/apnet2023/papers/sec2-toward.pdf
 
-  - title: "Survey on Network Verification"
+  - title: "Survey on Network Verification (in Chinese)"
     authors: <strong>Xing Fang</strong>, Bo Hu, Chao Ma, Weiqing Huang
     conference: Journal of Software, 2023.
     pdf: https://www.jos.org.cn/jos/article/pdf/6510
