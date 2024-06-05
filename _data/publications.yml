@@ -4,8 +4,9 @@ main:
     authors: <strong>Xing Fang</strong>, Feiyan Ding, Bang Huang, Ziyi Wang, Gao Han, Rulan Yang, Lizhao You, Qiao Xiang, Linghe Kong, Yutong Liu, Jiwu Shu
 #    conference_short: INFOCOM
     conference: INFOCOM, 2024.
-    pdf: https://sngroup.org.cn/work/pdf/NetSMT-INFOCOM24.pdf
+    pdf: ../papers/NetSMT-INFOCOM24.pdf
     code: https://github.com/sngroup-xmu/NetSMT
+    slides: ../papers/NETSMT_Slides.pdf
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
 #    image: ./assets/img/teaser_example_2.png
 #    notes: Early Accept
