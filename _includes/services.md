@@ -4,6 +4,6 @@
 
 <ul style="margin:0 0 5px;">
   <li>2025: INFOCOM, CoNEXT Shadow, ISPA </li>
-  <li>2024: BIGCOM, ISPA, CoNEXt Artifacts </li>
+  <li>2024: BIGCOM, ISPA, CoNEXT Artifacts </li>
   <li>2023: INFOCOM, ICPADS, BIGCOM </li>
 </ul>
