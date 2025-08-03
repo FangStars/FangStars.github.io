@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 2nd-year PhD student at Xiamen University's [SNGroup](https://sngroup.org.cn/), 
+I am a 3rd-year PhD student at Xiamen University's [SNGroup](https://sngroup.org.cn/), 
 under the guidance of Professor [Qiao Xiang](https://qiaoxiang.me/). 
 I earned my master degree in computer technology from the Institute of Information Engineering, 
 Chinese Academy of Sciences in 2022, under the guidance of [Bo Hu](https://teacher.ucas.ac.cn/~0057576).
@@ -19,9 +19,6 @@ Recently, I have been trying to develop an innovative technique to accelerate co
 Besides, I am also highly interested in exploring new techniques of network error
 diagnosis and repair and privacy-preserving network verification.
 
-## News
-
-- **[Dec. 2023]** Our paper about control plane verification is accepted to INFOCOM 2024.
 
 {% include_relative _includes/publications.md %}
 

@@ -1,5 +1,15 @@
 main:
 
+  - title: "LEOPARD: Accelerating Cloud-based Access Control Policy Verification Using Logical Encoding Optimization"
+    authors: <strong>Xing Fang</strong>, Feiyan Ding, Mingyuan Song, Yuntao Zhao, Lizhao You, Qiao Xiang, Linghe Kong, Jiwu Shu, Xue Liu
+    conference: IWQoS, 2025.
+    pdf: ../papers/LEPPARD-IWQoS25.pdf
+    slides: ../papers/LEOPARD_Slides.pdf
+
+  - title: "IVeri: A Scalable Privacy-Preserving Interdomain Configuration Verification Tool via Secure Multi-Party Computation"
+    authors: Mingjun Fang, Yuntao Zhao, Qiuyue Qin, <strong>Xing Fang</strong>, Huisan Xu， Lizhao You, Qiao Xiang, Linghe Kong, Jiwu Shu
+    conference: IWQoS, 2025.
+
   - title: "Network Can Help Check Itself:Accelerating SMT-based Network Configuration Verification Using Network Domain Knowledge"
     authors: <strong>Xing Fang</strong>, Feiyan Ding, Bang Huang, Ziyi Wang, Gao Han, Rulan Yang, Lizhao You, Qiao Xiang, Linghe Kong, Yutong Liu, Jiwu Shu
 #    conference_short: INFOCOM
@@ -10,6 +20,11 @@ main:
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
 #    image: ./assets/img/teaser_example_2.png
 #    notes: Early Accept
+
+  - title: "Rethinking DNS Configuration Verification with a Distributed Architecture"
+    authors: Yao Wang, Kexin Yu, Ziyi Wang, Kaiqiang Hu, Haizhou Du, Qiao Xiang, <strong>Xing Fang</strong>, Geng Li, Ruiting Zhou, Linghe Kong, Jiwu Shu
+    conference: APNET, 2024.
+    pdf: https://conferences.sigcomm.org/events/apnet2024/papers/RethinkingDNSConfigurationVerificationwithaDistributedArchitecture.pdf
 
   - title: "Diagnosing Distributed Routing Configurations Using Sequential Program Analysis"
     authors: Rulan Yang, <strong>Xing Fang</strong>, Lizhao You, Qiao Xiang, Hanyang Shao, Gao Han, Ziyi Wang, Jiwu Shu, Linghe Kong
