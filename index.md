@@ -20,5 +20,5 @@ Recently, my research has focused on enhancing configuration verification tools 
 I am also interested in configuration verification acceleration, network error diagnosis and repair, and privacy-preserving network verification.
 
 {% include_relative _includes/publications.md %}
-
+{% include_relative _includes/awards.md %}
 {% include_relative _includes/services.md %}
