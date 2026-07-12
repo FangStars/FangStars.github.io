@@ -8,7 +8,11 @@
 <h3>{{ section_info[0] }}</h3>
 <ol class="bibliography">
 
-{% assign publications = site.data.publications[section_info[1]] %}
+{% if section_info[1] == "selected" %}
+{% assign publications = site.data.publications.selected %}
+{% else %}
+{% assign publications = site.data.publications.other %}
+{% endif %}
 {% for link in publications %}
 
 <li>
