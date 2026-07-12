@@ -1,42 +1,56 @@
-main:
+selected:
+
+  - title: "Verifying Non-Deterministic Convergence on a Global Production WAN"
+    authors: <strong>Xing Fang</strong>, Fangdan Ye, Yifei Yuan, Zhongyu Guan, Duncheng She, Xiaobo Zhu, Qiao Xiang
+    conference: ACM SIGCOMM, 2026.
+    pdf: ../papers/SIGCOMM26-TianYan.pdf
 
   - title: "LEOPARD: Accelerating Cloud-based Access Control Policy Verification Using Logical Encoding Optimization"
     authors: <strong>Xing Fang</strong>, Feiyan Ding, Mingyuan Song, Yuntao Zhao, Lizhao You, Qiao Xiang, Linghe Kong, Jiwu Shu, Xue Liu
-    conference: IWQoS, 2025.
-    pdf: ../papers/LEPPARD-IWQoS25.pdf
-    slides: ../papers/LEOPARD_Slides.pdf
+    conference: IEEE/ACM IWQoS, 2025.
+    pdf: ../papers/IWQoS25-LEOPARD.pdf
+    slides: ../papers/IWQoS25-LEOPARD-Slides.pdf
 
-  - title: "IVeri: A Scalable Privacy-Preserving Interdomain Configuration Verification Tool via Secure Multi-Party Computation"
-    authors: Mingjun Fang, Yuntao Zhao, Qiuyue Qin, <strong>Xing Fang</strong>, Huisan Xu， Lizhao You, Qiao Xiang, Linghe Kong, Jiwu Shu
-    conference: IWQoS, 2025.
-
-  - title: "Network Can Help Check Itself:Accelerating SMT-based Network Configuration Verification Using Network Domain Knowledge"
+  - title: "Network Can Help Check Itself: Accelerating SMT-based Network Configuration Verification Using Network Domain Knowledge"
     authors: <strong>Xing Fang</strong>, Feiyan Ding, Bang Huang, Ziyi Wang, Gao Han, Rulan Yang, Lizhao You, Qiao Xiang, Linghe Kong, Yutong Liu, Jiwu Shu
-#    conference_short: INFOCOM
-    conference: INFOCOM, 2024.
-    pdf: ../papers/NetSMT-INFOCOM24.pdf
+    conference: IEEE INFOCOM, 2024.
+    pdf: ../papers/INFOCOM24-NetSMT.pdf
     code: https://github.com/sngroup-xmu/NetSMT
-    slides: ../papers/NETSMT_Slides.pdf
-#    bibtex: https://bib.yliu.me/MICCAI23.txt
-#    image: ./assets/img/teaser_example_2.png
-#    notes: Early Accept
-
-  - title: "Rethinking DNS Configuration Verification with a Distributed Architecture"
-    authors: Yao Wang, Kexin Yu, Ziyi Wang, Kaiqiang Hu, Haizhou Du, Qiao Xiang, <strong>Xing Fang</strong>, Geng Li, Ruiting Zhou, Linghe Kong, Jiwu Shu
-    conference: APNET, 2024.
-    pdf: https://conferences.sigcomm.org/events/apnet2024/papers/RethinkingDNSConfigurationVerificationwithaDistributedArchitecture.pdf
-
-  - title: "Diagnosing Distributed Routing Configurations Using Sequential Program Analysis"
-    authors: Rulan Yang, <strong>Xing Fang</strong>, Lizhao You, Qiao Xiang, Hanyang Shao, Gao Han, Ziyi Wang, Jiwu Shu, Linghe Kong
-    conference: APNET, 2023.
-    pdf: https://conferences.sigcomm.org/events/apnet2023/papers/sec2-diagnose.pdf
-
-  - title: "Toward Privacy-Preserving Interdomain Configuration Verification via Multi-Party Computation"
-    authors: Huisan Xu, Qiuyue Qin, <strong>Xing Fang</strong>, Qiao Xiang, Jiwu Shu
-    conference: APNET, 2023.
-    pdf: https://conferences.sigcomm.org/events/apnet2023/papers/sec2-toward.pdf
+    slides: ../papers/INFOCOM24-NetSMT-Slides.pdf
 
   - title: "Survey on Network Verification (in Chinese)"
     authors: <strong>Xing Fang</strong>, Bo Hu, Chao Ma, Weiqing Huang
     conference: Journal of Software, 2023.
     pdf: https://www.jos.org.cn/jos/article/pdf/6510
+
+other:
+
+  - title: "Diagnosing and Repairing Distributed Routing Configurations Using Selective Symbolic Simulation"
+    authors: Rulan Yang, Gao Han, Hanyang Shao, Xiaoqiang Zheng, <strong>Xing Fang</strong>, Ziyi Wang, Lizhao You, Ruiting Zhou, Linghe Kong, Ennan Zhai, Qiao Xiang, Jiwu Shu
+    conference: USENIX NSDI, 2026.
+    pdf: https://www.usenix.org/system/files/nsdi26-yang.pdf
+
+  - title: "Scalable Simulation-based Configuration Verification of DCNs via Destination-Independent Compression"
+    authors: Mengrui Zhang, Xiaoqiang Zheng, Letian Zhu, <strong>Xing Fang</strong>, Lizhao You, Zhang Liu, Ziyang Yao, Yang Wang, Rui Wen, Zhi Zhang, Ronghua Sun, Yuanhui Zhong, Haihua Li, Fei Yuan, Qiao Xiang
+    conference: IEEE/ACM IWQoS, 2026.
+    pdf: ../papers/IWQoS26-sNetVeri.pdf
+
+  - title: "IVeri: A Scalable Privacy-Preserving Interdomain Configuration Verification Tool via Secure Multi-Party Computation"
+    authors: Mingjun Fang, Yuntao Zhao, Qiuyue Qin, <strong>Xing Fang</strong>, Huisan Xu, Lizhao You, Qiao Xiang, Linghe Kong, Jiwu Shu
+    conference: IEEE/ACM IWQoS, 2025.
+    pdf: ../papers/IWQoS25-IVeri.pdf
+
+  - title: "Rethinking DNS Configuration Verification with a Distributed Architecture"
+    authors: Yao Wang, Kexin Yu, Ziyi Wang, Kaiqiang Hu, Haizhou Du, Qiao Xiang, <strong>Xing Fang</strong>, Geng Li, Ruiting Zhou, Linghe Kong, Jiwu Shu
+    conference: ACM APNet, 2024.
+    pdf: https://conferences.sigcomm.org/events/apnet2024/papers/RethinkingDNSConfigurationVerificationwithaDistributedArchitecture.pdf
+
+  - title: "Diagnosing Distributed Routing Configurations Using Sequential Program Analysis"
+    authors: Rulan Yang, <strong>Xing Fang</strong>, Lizhao You, Qiao Xiang, Hanyang Shao, Gao Han, Ziyi Wang, Jiwu Shu, Linghe Kong
+    conference: ACM APNet, 2023.
+    pdf: https://conferences.sigcomm.org/events/apnet2023/papers/sec2-diagnose.pdf
+
+  - title: "Toward Privacy-Preserving Interdomain Configuration Verification via Multi-Party Computation"
+    authors: Huisan Xu, Qiuyue Qin, <strong>Xing Fang</strong>, Qiao Xiang, Jiwu Shu
+    conference: ACM APNet, 2023.
+    pdf: https://conferences.sigcomm.org/events/apnet2023/papers/sec2-toward.pdf
