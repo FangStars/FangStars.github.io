@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 4th-year PhD student at Xiamen University's [SNGroup](https://sngroup.org.cn/), 
+I am a 5th-year PhD student at Xiamen University's [SNGroup](https://sngroup.org.cn/), 
 under the guidance of Professor [Qiao Xiang](https://qiaoxiang.me/).
 I am also a research intern at Alibaba Cloud (since April 2024), co-advised by Fangdan Ye and [Ennan Zhai](https://ennanzhai.github.io/).
 I earned my master degree in computer technology from the Institute of Information Engineering, 
