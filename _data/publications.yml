@@ -4,6 +4,7 @@ selected:
     authors: <strong>Xing Fang</strong>, Fangdan Ye, Yifei Yuan, Zhongyu Guan, Duncheng She, Xiaobo Zhu, Qiao Xiang
     conference: ACM SIGCOMM, 2026.
     pdf: ../papers/SIGCOMM26-TianYan.pdf
+    slides: ../papers/SIGCOMM26-TianYan-Slides.pdf
 
   - title: "LEOPARD: Accelerating Cloud-based Access Control Policy Verification Using Logical Encoding Optimization"
     authors: <strong>Xing Fang</strong>, Feiyan Ding, Mingyuan Song, Yuntao Zhao, Lizhao You, Qiao Xiang, Linghe Kong, Jiwu Shu, Xue Liu
