@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>2026: <a href="https://imc26stpc.hotcrp.com/">IMC STPC</a></li>
+  <li>2026: IMC Shadow</li>
   <li>2025: INFOCOM, CoNEXT Shadow, ISPA </li>
   <li>2024: CoNEXT Artifacts, BIGCOM, ISPA</li>
   <li>2023: INFOCOM, ICPADS </li>
